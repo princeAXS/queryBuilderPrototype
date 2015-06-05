@@ -1,4 +1,4 @@
-1.) Open terminal.
+1.) Open terminal.<br/>
 2.) Go to folder jQuery-QueryBuilder-master.
 3.) Hit command "bower install".
 4.) Put data file queryBuilderPrototype/jQuery-QueryBuilder-master/data/mockdata.json on server.
