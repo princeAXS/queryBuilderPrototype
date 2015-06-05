@@ -1,0 +1,120 @@
+{
+"coloumn":[
+  {
+    "label":"First Name",
+    "type":"string",
+    "id":"firstName",
+    "optgroup": "Customer"
+
+  },
+  {
+    "label":"Last Name",
+    "type":"string",
+    "id":"lastName",
+    "optgroup": "Customer"
+  },
+  {
+    "label":"Email Address",
+    "type":"string",
+    "id":"emailAddress",
+    "optgroup": "Customer"
+  },
+  {
+    "label":"Phone Number",
+    "type":"integer",
+    "id":"phoneNumber",
+    "optgroup": "Customer"
+  },
+  {
+    "label":"Zipcode",
+    "type":"integer",
+    "id":"zipcode",
+    "optgroup": "Customer"
+  },
+  {
+    "label":"Customer worth",
+    "type":"integer",
+    "id":"customerWorth",
+    "optgroup": "Customer"
+  },
+  {
+
+    "label":"Customer Zipcode",
+    "type":"integer",
+    "id":"customerZipcode",
+    "optgroup": "Customer"
+  },
+  {
+
+    "label":"Amount",
+    "type":"integer",
+    "id":"amount",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Quantity",
+    "type":"integer",
+    "id":"quantity",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Performer",
+    "type":"string",
+    "id":"performer",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Venue",
+    "type":"string",
+    "id":"venue",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"AXS ID",
+    "type":"string",
+    "id":"axsId",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Event Code",
+    "type":"string",
+    "id":"eventCode",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Price Type",
+    "type":"integer",
+    "id":"priceType",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Price Level",
+    "type":"string",
+    "id":"priceLevel",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Purchase Channel",
+    "type":"string",
+    "id":"purchaseChannel",
+    "optgroup": "Transaction"
+  },
+  {
+
+    "label":"Method of Delivery",
+    "type":"string",
+    "id":"methodDelivery",
+    "optgroup": "Transaction"
+  }
+
+
+]
+}
